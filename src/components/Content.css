@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+}
+
+.input-div {
+  height: 10vh;
+  max-width: 90vw;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-div {
+}
+
+ul {
+}
+
+li {
+  border: 1px solid rgb(221, 221, 221);
+  display: flex;
+  justify-content: space-between;
+  padding: 1vh 5vw 1vh 5vw;
+}
+
+li button {
+  margin-right: 1vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5vh;
+  width: 3vw;
+}
+
+li div {
+  align-items: center;
+}
